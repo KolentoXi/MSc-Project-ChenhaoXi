@@ -3,6 +3,10 @@ Collection of code used in this project
 
 This file contains a zip file package with the two datasets used in this project. It also contains six python notebook files, each of which is explained below:
 
+The file "Atanas_data" contains the data from the experiments using Atanas's data, the full source data can be downloaded from the website: https://wormwideweb.org/
+
+The file "Kato_data" contains the data from the experiments using Kato's data, the full source data can be downloaded from the website: https://osf.io/2395t/
+
 The files "data_clean.ipynb" and "read_data.ipynb" both contain code for cleaning the data, respectively reading and cleaning the code in .mat format.
 
 The file "Project1.ipynb" contains the code for experimenting with Kato's data.
